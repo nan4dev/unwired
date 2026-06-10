@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "Pagkaki";
+    src: url("assets/fonts/PAGKAKI-Regular.ttf");
+}
+body {
+    background-color: #000029;
+    color: #BABABA;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 0;
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.logo {
+    font-family: "Pagkaki";
+    font-size: 5rem;
+
+    color: #DCDEE2;
+
+    margin-bottom: 10px;
+}
+p {
+
+    font-family: Garamond, serif;
+
+    font-size: 1.2rem;
+
+    max-width: 600px;
+
+    text-align: center;
+}
+nav {
+    margin-top: 30px;
+}
+
+nav a {
+    font-family: Helvetica, sans-serif;
+
+    color: #DCDEE2;
+
+    text-decoration: none;
+
+    margin: 0 15px;
+}
+h2 {
+    font-family: Helvetica, sans-serif;
+
+    color: #DCDEE2;
+
+    margin-top: 80px;
+}
+.essay-card {
+
+    width: 500px;
+
+    background-color: #000051;
+
+    border: 1px solid #173DED;
+
+    border-radius: 10px;
+
+    padding: 20px;
+
+    margin: 20px;
+
+}
+.essay-card h3 {
+
+    font-family: Helvetica, sans-serif;
+
+    color: #DCDEE2;
+}
+.essay-card p {
+
+    font-family: Garamond, serif;
+
+    color: #BABABA;
+}
