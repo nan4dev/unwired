@@ -2,75 +2,49 @@
 
 Essays on the furtive impacts of algorithms, media, trends, incentives, and technology.
 
-## Mission
+## About
 
-Unwired is a digital essay publication exploring how modern systems shape identity, attention, culture, and behavior.
+Unwired is a personal project that started as an excuse to learn web development and create a home for essays I've wanted to write for a while.
 
-Rather than focusing on technology itself, Unwired examines the incentives, algorithms, social pressures, and media environments that increasingly influence how people think, consume, and understand themselves.
+The essays focus on how modern systems shape the way we think, what we pay attention to, and who we become. Topics range from attention economics and algorithmic influence to conformity, trends, and identity.
 
-The goal is to leave readers informed, humanized, and slightly unsettled.
+This is my first web development project.
 
----
+## What I've Learned So Far
 
-## Themes
+Building this project taught me:
 
-* Surveillance capitalism
-* Attention as currency
-* Conformity and social imitation
-* Algorithmic influence
-* Trend-driven culture
-* Anti-intellectualism
-* Technology and identity
-* Media incentives
+* Basic HTML page structure
+* CSS styling and layouts
+* Working with custom fonts
+* Organizing files and folders for a website
+* Using Git and GitHub for version control
+* Making and deploying changes through commits
 
----
+More importantly, it taught me that websites aren't magic. They're just lots of small pieces working together.
 
-## Version Roadmap
+## Current Features
 
-### V1 — Homepage ✅
-
-Features:
-
-* Custom branding and typography
+* Homepage
+* Custom typography
 * Navigation bar
 * Featured essay cards
-* Responsive dark theme
+* Custom color palette
 
-### V2 — Essay Pages
-
-Planned:
+## Planned Features
 
 * Individual essay pages
-* Reading layout
-* Internal navigation
+* Better navigation
+* Interactive reader experiences
+* A complete archive of essays
 
-### V3 — Interactive Reflection Tools
+## Why I'm Building This
 
-Planned:
+Most of my projects before this were small Python programs. I wanted to build something that felt more personal and creative.
 
-* Reader questions
-* Preference mapping
-* Interactive exploration of influence and identity
-
-### V4 — Full Unwired Experience
-
-Planned:
-
-* Essay archive
-* Search and filtering
-* Interactive features
-* Complete publication platform
-
----
-
-## Built With
-
-* HTML
-* CSS
-* JavaScript
-
----
+Unwired is my attempt to combine writing, design, and programming into one project.
 
 ## Status
 
-Active personal project.
+Version 1 complete.
+
